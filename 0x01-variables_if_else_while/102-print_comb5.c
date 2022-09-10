@@ -33,5 +33,5 @@ int main(void)
 		}
 		a++;
 	}
-	return(0);
+	return (0);
 }
