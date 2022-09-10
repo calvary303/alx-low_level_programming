@@ -7,8 +7,10 @@
 */
 int main(void)
 {
-	int n, i, hex;	
+	int n, i, hex;
+
 	n = 48;
+
 	for (i = 0; i <= 9; i++)
 	{
 		putchar(n);
