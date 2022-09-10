@@ -17,6 +17,6 @@ for (h = 'A' ; h <= 'Z' ; h++)
 {
 	putchar(h);
 }
-putchar(10)
+putchar(10);
 return (0);
 }
