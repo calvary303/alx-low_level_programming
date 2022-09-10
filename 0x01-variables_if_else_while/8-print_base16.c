@@ -18,7 +18,6 @@ int main(void)
 	}
 
 	hex = 97;
-
 	for (i = 0; i <= 5; i++)
 	{
 		putchar(hex);
