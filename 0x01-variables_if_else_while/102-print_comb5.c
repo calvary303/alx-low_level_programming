@@ -4,7 +4,7 @@
 * main - loop through variables a,b,c printing digits
 * Return: print to stdout all possible different combinations of three digits
 */
-int main(void
+int main(void)
 {
 	int a = 0;
 
