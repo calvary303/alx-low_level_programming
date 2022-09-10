@@ -10,14 +10,14 @@ int main(void)
 {
 	char c;
 
-for (c = 'a'; c <= 'z'; c++)
-{
-	if (c == 'e' || c == 'q')
+	for (c = 'a'; c <= 'z'; c++)
+	{
+		if (c == 'e' || c == 'q')
+		continue;
 
-continue;
-putchar(c);
-}
-putchar(10);
-return (0);
+		putchar(c);
+	}
 
+		putchar(10);
+		return (0);
 }
