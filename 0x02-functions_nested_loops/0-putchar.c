@@ -1,19 +1,11 @@
 #include "main.h"
 
-
-
 /**
-
  * main - prints the string with a new line
-
  * Return: the function returns 0
-
  */
-
 int main(void)
-
 {
-
 	_putchar('_');
 
 	_putchar('p');
@@ -32,8 +24,5 @@ int main(void)
 
 	_putchar('\n');
 
-
-
 	return (0);
-
 }
