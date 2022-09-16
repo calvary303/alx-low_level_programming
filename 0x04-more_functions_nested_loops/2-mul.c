@@ -6,7 +6,6 @@
  * @b: second number
  * Return: the product of both numbers
  */
-
 int mul(int a, int b)
 {
 	return (a * b);
